@@ -8,7 +8,7 @@
 - ✅ Free Limit: 5 Questions (0/5 Counter)
 - ✅ After 5 Questions: Auto Lock Screen
 - ✅ Lock Screen Shows: Contact Developer Taimur Wattoo - 03020700310
-
+ ![Pro Lock System - Contact Developer](lock-screen.png)
 ### 🛠️ Tech Stack:
 - Python, FastAPI, PyMuPDF, Uvicorn, HTML/CSS
 
